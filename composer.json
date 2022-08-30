@@ -1,0 +1,36 @@
+{
+    "name": "csoellinger/silverstripe-admin-icons",
+    "description": "Small helper class to get silverstripe icon names easily.",
+    "license": "BSD-3-Clause",
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "silverstripe/admin": "1.0.*"
+    },
+    "require-dev": {
+        "ergebnis/composer-normalize": "^2.28"
+    },
+    "autoload": {
+        "psr-4": {
+            "Csoellinger\\Silverstripe\\AdminIcons\\": "src/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true,
+            "silverstripe/vendor-plugin": true,
+            "ergebnis/composer-normalize": true
+        }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "@generate-constant-class"
+        ],
+        "post-update-cmd": [
+            "@generate-constant-class"
+        ],
+        "generate-constant-class": "php GenerateConstantClass.php",
+        "serve": "php -S localhost:5040 -t ."
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
