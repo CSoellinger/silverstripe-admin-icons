@@ -16,8 +16,7 @@ class GenerateConstantClass
             'silverstripe',
             'admin',
             'client',
-            'src',
-            'font',
+            'dist',
             'fonts',
             'silverstripe.svg',
         ]);
