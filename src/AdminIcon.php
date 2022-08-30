@@ -163,9 +163,6 @@ class AdminIcon
     public const TRASH_BIN = 'trash-bin';
 
     /** Glyph name */
-    public const CODE = 'code';
-
-    /** Glyph name */
     public const LEFT_OPEN_BIG = 'left-open-big';
 
     /** Glyph name */
@@ -176,9 +173,6 @@ class AdminIcon
 
     /** Glyph name */
     public const RIGHT_OPEN_BIG = 'right-open-big';
-
-    /** Glyph name */
-    public const DOT_3 = 'dot-3';
 
     /** Glyph name */
     public const SAVE = 'save';
@@ -248,9 +242,6 @@ class AdminIcon
 
     /** Glyph name */
     public const DATABASE = 'database';
-
-    /** Glyph name */
-    public const EXTERNAL_LINK = 'external-link';
 
     /** Glyph name */
     public const ATTENTION = 'attention';
@@ -364,9 +355,6 @@ class AdminIcon
     public const TAGS = 'tags';
 
     /** Glyph name */
-    public const CIRCLE_STAR = 'circle-star';
-
-    /** Glyph name */
     public const CHECKLIST = 'checklist';
 
     /** Glyph name */
@@ -386,4 +374,163 @@ class AdminIcon
 
     /** Glyph name */
     public const TRANSLATABLE = 'translatable';
+
+    /** Glyph name */
+    public const PULSE = 'pulse';
+
+    /** Glyph name */
+    public const DOT_3 = 'dot-3';
+
+    /** Glyph name */
+    public const CODE = 'code';
+
+    /** Glyph name */
+    public const EXTERNAL_LINK = 'external-link';
+
+    /** Glyph name */
+    public const EXPLORE_ADDONS = 'explore-addons';
+
+    /** Glyph name */
+    public const SHARE = 'share';
+
+    /** Glyph name */
+    public const CALENDAR = 'calendar';
+
+    /** Glyph name */
+    public const UNIVERSAL_ACCESS = 'universal-access';
+
+    /** Glyph name */
+    public const CART = 'cart';
+
+    /** Glyph name */
+    public const CREDIT_CARD = 'credit-card';
+
+    /** Glyph name */
+    public const NEWS = 'news';
+
+    /** Glyph name */
+    public const P_EVENT = 'p-event';
+
+    /** Glyph name */
+    public const P_EVENT_ALT = 'p-event-alt';
+
+    /** Glyph name */
+    public const P_ARTICLE = 'p-article';
+
+    /** Glyph name */
+    public const P_ARTICLES = 'p-articles';
+
+    /** Glyph name */
+    public const P_DOCUMENT = 'p-document';
+
+    /** Glyph name */
+    public const P_CODE = 'p-code';
+
+    /** Glyph name */
+    public const P_ERROR = 'p-error';
+
+    /** Glyph name */
+    public const P_CART = 'p-cart';
+
+    /** Glyph name */
+    public const P_LIST = 'p-list';
+
+    /** Glyph name */
+    public const P_ARCHIVE = 'p-archive';
+
+    /** Glyph name */
+    public const P_NEWS_ITEM = 'p-news-item';
+
+    /** Glyph name */
+    public const P_MULTI = 'p-multi';
+
+    /** Glyph name */
+    public const PAGE = 'page';
+
+    /** Glyph name */
+    public const P_A = 'p-a';
+
+    /** Glyph name */
+    public const P_A_B = 'p-a-b';
+
+    /** Glyph name */
+    public const P_ALT = 'p-alt';
+
+    /** Glyph name */
+    public const P_SHIELD_OFF = 'p-shield-off';
+
+    /** Glyph name */
+    public const P_SHIELD = 'p-shield';
+
+    /** Glyph name */
+    public const P_POSTS = 'p-posts';
+
+    /** Glyph name */
+    public const P_HOME = 'p-home';
+
+    /** Glyph name */
+    public const P_GALLERY_ALT = 'p-gallery-alt';
+
+    /** Glyph name */
+    public const P_GALLERY = 'p-gallery';
+
+    /** Glyph name */
+    public const P_DATA = 'p-data';
+
+    /** Glyph name */
+    public const P_B = 'p-b';
+
+    /** Glyph name */
+    public const P_VITUAL = 'p-vitual';
+
+    /** Glyph name */
+    public const P_ALT_2 = 'p-alt-2';
+
+    /** Glyph name */
+    public const P_ALT_3 = 'p-alt-3';
+
+    /** Glyph name */
+    public const P_PROFILE = 'p-profile';
+
+    /** Glyph name */
+    public const P_ATTACHMENT = 'p-attachment';
+
+    /** Glyph name */
+    public const P_DOWNLOAD = 'p-download';
+
+    /** Glyph name */
+    public const P_SEARCH = 'p-search';
+
+    /** Glyph name */
+    public const P_MAIL = 'p-mail';
+
+    /** Glyph name */
+    public const P_MAP = 'p-map';
+
+    /** Glyph name */
+    public const P_REDIRECT = 'p-redirect';
+
+    /** Glyph name */
+    public const P_POST = 'p-post';
+
+    /** Glyph name */
+    public const P_SHOP = 'p-shop';
+
+    /** Glyph name */
+    public const P_BOOK = 'p-book';
+
+    /** Glyph name */
+    public const P_PACKAGE = 'p-package';
+
+    /** Glyph name */
+    public const P_BLOCKED = 'p-blocked';
+
+    /** Glyph name */
+    public const CIRCLE_STAR = 'circle-star';
+
+    /** Glyph name */
+    public const SUN = 'sun';
+
+    /** Glyph name */
+    public const ACCESSIBILITY = 'accessibility';
 }

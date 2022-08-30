@@ -163,9 +163,6 @@ class AdminIconUnicode
     public const TRASH_BIN = 'P';
 
     /** Glyph unicode character */
-    public const CODE = '3';
-
-    /** Glyph unicode character */
     public const LEFT_OPEN_BIG = '5';
 
     /** Glyph unicode character */
@@ -176,9 +173,6 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const RIGHT_OPEN_BIG = '8';
-
-    /** Glyph unicode character */
-    public const DOT_3 = '9';
 
     /** Glyph unicode character */
     public const SAVE = '!';
@@ -248,9 +242,6 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const DATABASE = '?';
-
-    /** Glyph unicode character */
-    public const EXTERNAL_LINK = '@';
 
     /** Glyph unicode character */
     public const ATTENTION = '[';
@@ -364,9 +355,6 @@ class AdminIconUnicode
     public const TAGS = '';
 
     /** Glyph unicode character */
-    public const CIRCLE_STAR = '';
-
-    /** Glyph unicode character */
     public const CHECKLIST = '';
 
     /** Glyph unicode character */
@@ -386,4 +374,163 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const TRANSLATABLE = '';
+
+    /** Glyph unicode character */
+    public const PULSE = '';
+
+    /** Glyph unicode character */
+    public const DOT_3 = '9';
+
+    /** Glyph unicode character */
+    public const CODE = '3';
+
+    /** Glyph unicode character */
+    public const EXTERNAL_LINK = '@';
+
+    /** Glyph unicode character */
+    public const EXPLORE_ADDONS = '';
+
+    /** Glyph unicode character */
+    public const SHARE = '';
+
+    /** Glyph unicode character */
+    public const CALENDAR = '';
+
+    /** Glyph unicode character */
+    public const UNIVERSAL_ACCESS = '';
+
+    /** Glyph unicode character */
+    public const CART = '';
+
+    /** Glyph unicode character */
+    public const CREDIT_CARD = '';
+
+    /** Glyph unicode character */
+    public const NEWS = '';
+
+    /** Glyph unicode character */
+    public const P_EVENT = '';
+
+    /** Glyph unicode character */
+    public const P_EVENT_ALT = '';
+
+    /** Glyph unicode character */
+    public const P_ARTICLE = '';
+
+    /** Glyph unicode character */
+    public const P_ARTICLES = '';
+
+    /** Glyph unicode character */
+    public const P_DOCUMENT = '';
+
+    /** Glyph unicode character */
+    public const P_CODE = '';
+
+    /** Glyph unicode character */
+    public const P_ERROR = '';
+
+    /** Glyph unicode character */
+    public const P_CART = '';
+
+    /** Glyph unicode character */
+    public const P_LIST = '';
+
+    /** Glyph unicode character */
+    public const P_ARCHIVE = '';
+
+    /** Glyph unicode character */
+    public const P_NEWS_ITEM = '';
+
+    /** Glyph unicode character */
+    public const P_MULTI = '';
+
+    /** Glyph unicode character */
+    public const PAGE = '';
+
+    /** Glyph unicode character */
+    public const P_A = '';
+
+    /** Glyph unicode character */
+    public const P_A_B = '';
+
+    /** Glyph unicode character */
+    public const P_ALT = '';
+
+    /** Glyph unicode character */
+    public const P_SHIELD_OFF = '';
+
+    /** Glyph unicode character */
+    public const P_SHIELD = '';
+
+    /** Glyph unicode character */
+    public const P_POSTS = '';
+
+    /** Glyph unicode character */
+    public const P_HOME = '';
+
+    /** Glyph unicode character */
+    public const P_GALLERY_ALT = '';
+
+    /** Glyph unicode character */
+    public const P_GALLERY = '';
+
+    /** Glyph unicode character */
+    public const P_DATA = '';
+
+    /** Glyph unicode character */
+    public const P_B = '';
+
+    /** Glyph unicode character */
+    public const P_VITUAL = '';
+
+    /** Glyph unicode character */
+    public const P_ALT_2 = '';
+
+    /** Glyph unicode character */
+    public const P_ALT_3 = '';
+
+    /** Glyph unicode character */
+    public const P_PROFILE = '';
+
+    /** Glyph unicode character */
+    public const P_ATTACHMENT = '';
+
+    /** Glyph unicode character */
+    public const P_DOWNLOAD = '';
+
+    /** Glyph unicode character */
+    public const P_SEARCH = '';
+
+    /** Glyph unicode character */
+    public const P_MAIL = '';
+
+    /** Glyph unicode character */
+    public const P_MAP = '';
+
+    /** Glyph unicode character */
+    public const P_REDIRECT = '';
+
+    /** Glyph unicode character */
+    public const P_POST = '';
+
+    /** Glyph unicode character */
+    public const P_SHOP = '';
+
+    /** Glyph unicode character */
+    public const P_BOOK = '';
+
+    /** Glyph unicode character */
+    public const P_PACKAGE = '';
+
+    /** Glyph unicode character */
+    public const P_BLOCKED = '';
+
+    /** Glyph unicode character */
+    public const CIRCLE_STAR = '';
+
+    /** Glyph unicode character */
+    public const SUN = '';
+
+    /** Glyph unicode character */
+    public const ACCESSIBILITY = '';
 }

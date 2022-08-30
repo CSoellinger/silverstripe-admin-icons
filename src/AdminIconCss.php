@@ -163,9 +163,6 @@ class AdminIconCss
     public const TRASH_BIN = 'font-icon-trash-bin';
 
     /** Glyph css class name */
-    public const CODE = 'font-icon-code';
-
-    /** Glyph css class name */
     public const LEFT_OPEN_BIG = 'font-icon-left-open-big';
 
     /** Glyph css class name */
@@ -176,9 +173,6 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const RIGHT_OPEN_BIG = 'font-icon-right-open-big';
-
-    /** Glyph css class name */
-    public const DOT_3 = 'font-icon-dot-3';
 
     /** Glyph css class name */
     public const SAVE = 'font-icon-save';
@@ -248,9 +242,6 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const DATABASE = 'font-icon-database';
-
-    /** Glyph css class name */
-    public const EXTERNAL_LINK = 'font-icon-external-link';
 
     /** Glyph css class name */
     public const ATTENTION = 'font-icon-attention';
@@ -364,9 +355,6 @@ class AdminIconCss
     public const TAGS = 'font-icon-tags';
 
     /** Glyph css class name */
-    public const CIRCLE_STAR = 'font-icon-circle-star';
-
-    /** Glyph css class name */
     public const CHECKLIST = 'font-icon-checklist';
 
     /** Glyph css class name */
@@ -386,4 +374,163 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const TRANSLATABLE = 'font-icon-translatable';
+
+    /** Glyph css class name */
+    public const PULSE = 'font-icon-pulse';
+
+    /** Glyph css class name */
+    public const DOT_3 = 'font-icon-dot-3';
+
+    /** Glyph css class name */
+    public const CODE = 'font-icon-code';
+
+    /** Glyph css class name */
+    public const EXTERNAL_LINK = 'font-icon-external-link';
+
+    /** Glyph css class name */
+    public const EXPLORE_ADDONS = 'font-icon-explore-addons';
+
+    /** Glyph css class name */
+    public const SHARE = 'font-icon-share';
+
+    /** Glyph css class name */
+    public const CALENDAR = 'font-icon-calendar';
+
+    /** Glyph css class name */
+    public const UNIVERSAL_ACCESS = 'font-icon-universal-access';
+
+    /** Glyph css class name */
+    public const CART = 'font-icon-cart';
+
+    /** Glyph css class name */
+    public const CREDIT_CARD = 'font-icon-credit-card';
+
+    /** Glyph css class name */
+    public const NEWS = 'font-icon-news';
+
+    /** Glyph css class name */
+    public const P_EVENT = 'font-icon-p-event';
+
+    /** Glyph css class name */
+    public const P_EVENT_ALT = 'font-icon-p-event-alt';
+
+    /** Glyph css class name */
+    public const P_ARTICLE = 'font-icon-p-article';
+
+    /** Glyph css class name */
+    public const P_ARTICLES = 'font-icon-p-articles';
+
+    /** Glyph css class name */
+    public const P_DOCUMENT = 'font-icon-p-document';
+
+    /** Glyph css class name */
+    public const P_CODE = 'font-icon-p-code';
+
+    /** Glyph css class name */
+    public const P_ERROR = 'font-icon-p-error';
+
+    /** Glyph css class name */
+    public const P_CART = 'font-icon-p-cart';
+
+    /** Glyph css class name */
+    public const P_LIST = 'font-icon-p-list';
+
+    /** Glyph css class name */
+    public const P_ARCHIVE = 'font-icon-p-archive';
+
+    /** Glyph css class name */
+    public const P_NEWS_ITEM = 'font-icon-p-news-item';
+
+    /** Glyph css class name */
+    public const P_MULTI = 'font-icon-p-multi';
+
+    /** Glyph css class name */
+    public const PAGE = 'font-icon-page';
+
+    /** Glyph css class name */
+    public const P_A = 'font-icon-p-a';
+
+    /** Glyph css class name */
+    public const P_A_B = 'font-icon-p-a-b';
+
+    /** Glyph css class name */
+    public const P_ALT = 'font-icon-p-alt';
+
+    /** Glyph css class name */
+    public const P_SHIELD_OFF = 'font-icon-p-shield-off';
+
+    /** Glyph css class name */
+    public const P_SHIELD = 'font-icon-p-shield';
+
+    /** Glyph css class name */
+    public const P_POSTS = 'font-icon-p-posts';
+
+    /** Glyph css class name */
+    public const P_HOME = 'font-icon-p-home';
+
+    /** Glyph css class name */
+    public const P_GALLERY_ALT = 'font-icon-p-gallery-alt';
+
+    /** Glyph css class name */
+    public const P_GALLERY = 'font-icon-p-gallery';
+
+    /** Glyph css class name */
+    public const P_DATA = 'font-icon-p-data';
+
+    /** Glyph css class name */
+    public const P_B = 'font-icon-p-b';
+
+    /** Glyph css class name */
+    public const P_VITUAL = 'font-icon-p-vitual';
+
+    /** Glyph css class name */
+    public const P_ALT_2 = 'font-icon-p-alt-2';
+
+    /** Glyph css class name */
+    public const P_ALT_3 = 'font-icon-p-alt-3';
+
+    /** Glyph css class name */
+    public const P_PROFILE = 'font-icon-p-profile';
+
+    /** Glyph css class name */
+    public const P_ATTACHMENT = 'font-icon-p-attachment';
+
+    /** Glyph css class name */
+    public const P_DOWNLOAD = 'font-icon-p-download';
+
+    /** Glyph css class name */
+    public const P_SEARCH = 'font-icon-p-search';
+
+    /** Glyph css class name */
+    public const P_MAIL = 'font-icon-p-mail';
+
+    /** Glyph css class name */
+    public const P_MAP = 'font-icon-p-map';
+
+    /** Glyph css class name */
+    public const P_REDIRECT = 'font-icon-p-redirect';
+
+    /** Glyph css class name */
+    public const P_POST = 'font-icon-p-post';
+
+    /** Glyph css class name */
+    public const P_SHOP = 'font-icon-p-shop';
+
+    /** Glyph css class name */
+    public const P_BOOK = 'font-icon-p-book';
+
+    /** Glyph css class name */
+    public const P_PACKAGE = 'font-icon-p-package';
+
+    /** Glyph css class name */
+    public const P_BLOCKED = 'font-icon-p-blocked';
+
+    /** Glyph css class name */
+    public const CIRCLE_STAR = 'font-icon-circle-star';
+
+    /** Glyph css class name */
+    public const SUN = 'font-icon-sun';
+
+    /** Glyph css class name */
+    public const ACCESSIBILITY = 'font-icon-accessibility';
 }
