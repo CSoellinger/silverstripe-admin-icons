@@ -481,7 +481,7 @@ class AdminIconCss
     public const P_B = 'font-icon-p-b';
 
     /** Glyph css class name */
-    public const P_VITUAL = 'font-icon-p-vitual';
+    public const P_VIRTUAL = 'font-icon-p-virtual';
 
     /** Glyph css class name */
     public const P_ALT_2 = 'font-icon-p-alt-2';
@@ -533,4 +533,7 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const ACCESSIBILITY = 'font-icon-accessibility';
+
+    /** Glyph css class name */
+    public const PLUS_THIN = 'font-icon-plus-thin';
 }

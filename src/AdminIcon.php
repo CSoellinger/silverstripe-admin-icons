@@ -481,7 +481,7 @@ class AdminIcon
     public const P_B = 'p-b';
 
     /** Glyph name */
-    public const P_VITUAL = 'p-vitual';
+    public const P_VIRTUAL = 'p-virtual';
 
     /** Glyph name */
     public const P_ALT_2 = 'p-alt-2';
@@ -533,4 +533,7 @@ class AdminIcon
 
     /** Glyph name */
     public const ACCESSIBILITY = 'accessibility';
+
+    /** Glyph name */
+    public const PLUS_THIN = 'plus-thin';
 }

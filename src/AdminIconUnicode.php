@@ -481,7 +481,7 @@ class AdminIconUnicode
     public const P_B = '';
 
     /** Glyph unicode character */
-    public const P_VITUAL = '';
+    public const P_VIRTUAL = '';
 
     /** Glyph unicode character */
     public const P_ALT_2 = '';
@@ -533,4 +533,7 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const ACCESSIBILITY = '';
+
+    /** Glyph unicode character */
+    public const PLUS_THIN = '';
 }
