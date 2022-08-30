@@ -322,9 +322,6 @@ class AdminIconCss
     public const BLOCK_CONTENT = 'font-icon-block-content';
 
     /** Glyph css class name */
-    public const BLOCK_FILE = 'font-icon-block-file';
-
-    /** Glyph css class name */
     public const BLOCK_FILE_LIST = 'font-icon-block-file-list';
 
     /** Glyph css class name */
@@ -616,13 +613,7 @@ class AdminIconCss
     public const BLOCK_USER = 'font-icon-block-user';
 
     /** Glyph css class name */
-    public const BLOCK_USER_2 = 'font-icon-block-user-2';
-
-    /** Glyph css class name */
     public const BLOCK_STORY_CAROUSEL = 'font-icon-block-story-carousel';
-
-    /** Glyph css class name */
-    public const BLOCK_USER_4 = 'font-icon-block-user-4';
 
     /** Glyph css class name */
     public const BLOCK_LINK = 'font-icon-block-link';
@@ -728,4 +719,43 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const ADDRESS_CARD_WARNING = 'font-icon-address-card-warning';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_10 = 'font-icon-block-layout-10';
+
+    /** Glyph css class name */
+    public const BLOCK_PROMO = 'font-icon-block-promo';
+
+    /** Glyph css class name */
+    public const BLOCK_FILE = 'font-icon-block-file';
+
+    /** Glyph css class name */
+    public const BLOCK_PROMO_3 = 'font-icon-block-promo-3';
+
+    /** Glyph css class name */
+    public const BLOCK_PROMO_2 = 'font-icon-block-promo-2';
+
+    /** Glyph css class name */
+    public const BLOCK_USER_4 = 'font-icon-block-user-4';
+
+    /** Glyph css class name */
+    public const BLOCK_ACCORDION = 'font-icon-block-accordion';
+
+    /** Glyph css class name */
+    public const BLOCK_EXTERNAL_LINK = 'font-icon-block-external-link';
+
+    /** Glyph css class name */
+    public const BLOCK_ROCKET = 'font-icon-block-rocket';
+
+    /** Glyph css class name */
+    public const BLOCK_VIRTUAL_PAGE = 'font-icon-block-virtual-page';
+
+    /** Glyph css class name */
+    public const BLOCK_USER_2 = 'font-icon-block-user-2';
+
+    /** Glyph css class name */
+    public const BLOCK_TABS = 'font-icon-block-tabs';
+
+    /** Glyph css class name */
+    public const ATTENTION_1 = 'font-icon-attention-1';
 }

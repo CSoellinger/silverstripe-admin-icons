@@ -322,9 +322,6 @@ class AdminIconUnicode
     public const BLOCK_CONTENT = '';
 
     /** Glyph unicode character */
-    public const BLOCK_FILE = '';
-
-    /** Glyph unicode character */
     public const BLOCK_FILE_LIST = '';
 
     /** Glyph unicode character */
@@ -616,13 +613,7 @@ class AdminIconUnicode
     public const BLOCK_USER = '';
 
     /** Glyph unicode character */
-    public const BLOCK_USER_2 = '';
-
-    /** Glyph unicode character */
     public const BLOCK_STORY_CAROUSEL = '';
-
-    /** Glyph unicode character */
-    public const BLOCK_USER_4 = '';
 
     /** Glyph unicode character */
     public const BLOCK_LINK = '';
@@ -728,4 +719,43 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const ADDRESS_CARD_WARNING = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_10 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_PROMO = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_FILE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_PROMO_3 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_PROMO_2 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USER_4 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_ACCORDION = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_EXTERNAL_LINK = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_ROCKET = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_VIRTUAL_PAGE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USER_2 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_TABS = '';
+
+    /** Glyph unicode character */
+    public const ATTENTION_1 = '';
 }

@@ -322,9 +322,6 @@ class AdminIcon
     public const BLOCK_CONTENT = 'block-content';
 
     /** Glyph name */
-    public const BLOCK_FILE = 'block-file';
-
-    /** Glyph name */
     public const BLOCK_FILE_LIST = 'block-file-list';
 
     /** Glyph name */
@@ -616,13 +613,7 @@ class AdminIcon
     public const BLOCK_USER = 'block-user';
 
     /** Glyph name */
-    public const BLOCK_USER_2 = 'block-user-2';
-
-    /** Glyph name */
     public const BLOCK_STORY_CAROUSEL = 'block-story-carousel';
-
-    /** Glyph name */
-    public const BLOCK_USER_4 = 'block-user-4';
 
     /** Glyph name */
     public const BLOCK_LINK = 'block-link';
@@ -728,4 +719,43 @@ class AdminIcon
 
     /** Glyph name */
     public const ADDRESS_CARD_WARNING = 'address-card-warning';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_10 = 'block-layout-10';
+
+    /** Glyph name */
+    public const BLOCK_PROMO = 'block-promo';
+
+    /** Glyph name */
+    public const BLOCK_FILE = 'block-file';
+
+    /** Glyph name */
+    public const BLOCK_PROMO_3 = 'block-promo-3';
+
+    /** Glyph name */
+    public const BLOCK_PROMO_2 = 'block-promo-2';
+
+    /** Glyph name */
+    public const BLOCK_USER_4 = 'block-user-4';
+
+    /** Glyph name */
+    public const BLOCK_ACCORDION = 'block-accordion';
+
+    /** Glyph name */
+    public const BLOCK_EXTERNAL_LINK = 'block-external-link';
+
+    /** Glyph name */
+    public const BLOCK_ROCKET = 'block-rocket';
+
+    /** Glyph name */
+    public const BLOCK_VIRTUAL_PAGE = 'block-virtual-page';
+
+    /** Glyph name */
+    public const BLOCK_USER_2 = 'block-user-2';
+
+    /** Glyph name */
+    public const BLOCK_TABS = 'block-tabs';
+
+    /** Glyph name */
+    public const ATTENTION_1 = 'attention-1';
 }
