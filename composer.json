@@ -4,7 +4,7 @@
     "license": "BSD-3-Clause",
     "type": "silverstripe-vendormodule",
     "require": {
-        "silverstripe/admin": "1.9.*"
+        "silverstripe/admin": "1.10.*"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.28"
