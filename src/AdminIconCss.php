@@ -67,9 +67,6 @@ class AdminIconCss
     public const SITEMAP = 'font-icon-sitemap';
 
     /** Glyph css class name */
-    public const GLOBE_1 = 'font-icon-globe-1';
-
-    /** Glyph css class name */
     public const CHAT = 'font-icon-chat';
 
     /** Glyph css class name */
@@ -113,9 +110,6 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const COLUMNS = 'font-icon-columns';
-
-    /** Glyph css class name */
-    public const EDIT_WRITE = 'font-icon-edit-write';
 
     /** Glyph css class name */
     public const MONITOR = 'font-icon-monitor';
@@ -244,9 +238,6 @@ class AdminIconCss
     public const DATABASE = 'font-icon-database';
 
     /** Glyph css class name */
-    public const ATTENTION = 'font-icon-attention';
-
-    /** Glyph css class name */
     public const BLOCK = 'font-icon-block';
 
     /** Glyph css class name */
@@ -320,9 +311,6 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const HOME = 'font-icon-home';
-
-    /** Glyph css class name */
-    public const BLOCK_BACK = 'font-icon-block-back';
 
     /** Glyph css class name */
     public const BLOCK_BANNER = 'font-icon-block-banner';
@@ -536,4 +524,208 @@ class AdminIconCss
 
     /** Glyph css class name */
     public const PLUS_THIN = 'font-icon-plus-thin';
+
+    /** Glyph css class name */
+    public const DASHBOARD = 'font-icon-dashboard';
+
+    /** Glyph css class name */
+    public const BLOCK_EMBED = 'font-icon-block-embed';
+
+    /** Glyph css class name */
+    public const MINUS_CIRCLE = 'font-icon-minus-circle';
+
+    /** Glyph css class name */
+    public const CHECK_CIRCLE = 'font-icon-check-circle';
+
+    /** Glyph css class name */
+    public const MINUS = 'font-icon-minus';
+
+    /** Glyph css class name */
+    public const PLUS_1 = 'font-icon-plus-1';
+
+    /** Glyph css class name */
+    public const RIGHT_THIN = 'font-icon-right-thin';
+
+    /** Glyph css class name */
+    public const LEFT_THIN = 'font-icon-left-thin';
+
+    /** Glyph css class name */
+    public const DOWN_THIN = 'font-icon-down-thin';
+
+    /** Glyph css class name */
+    public const UP_THIN = 'font-icon-up-thin';
+
+    /** Glyph css class name */
+    public const ATTENTION = 'font-icon-attention';
+
+    /** Glyph css class name */
+    public const INTEGRATION = 'font-icon-integration';
+
+    /** Glyph css class name */
+    public const LAMP = 'font-icon-lamp';
+
+    /** Glyph css class name */
+    public const FLAG = 'font-icon-flag';
+
+    /** Glyph css class name */
+    public const GLOBE_1 = 'font-icon-globe-1';
+
+    /** Glyph css class name */
+    public const SHIELD = 'font-icon-shield';
+
+    /** Glyph css class name */
+    public const CLONE = 'font-icon-clone';
+
+    /** Glyph css class name */
+    public const BLOCK_BACK = 'font-icon-block-back';
+
+    /** Glyph css class name */
+    public const BLOCK_A = 'font-icon-block-a';
+
+    /** Glyph css class name */
+    public const BLOCK_A_B = 'font-icon-block-a-b';
+
+    /** Glyph css class name */
+    public const BLOCK_ANALYTICS = 'font-icon-block-analytics';
+
+    /** Glyph css class name */
+    public const BLOCK_USER_3 = 'font-icon-block-user-3';
+
+    /** Glyph css class name */
+    public const BLOCK_ATTACHMENT = 'font-icon-block-attachment';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_2 = 'font-icon-block-layout-2';
+
+    /** Glyph css class name */
+    public const BLOCK_CLOCK = 'font-icon-block-clock';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_3 = 'font-icon-block-layout-3';
+
+    /** Glyph css class name */
+    public const BLOCK_INFO = 'font-icon-block-info';
+
+    /** Glyph css class name */
+    public const BLOCK_GROUP = 'font-icon-block-group';
+
+    /** Glyph css class name */
+    public const BLOCK_INSTAGRAM = 'font-icon-block-instagram';
+
+    /** Glyph css class name */
+    public const BLOCK_USER = 'font-icon-block-user';
+
+    /** Glyph css class name */
+    public const BLOCK_USER_2 = 'font-icon-block-user-2';
+
+    /** Glyph css class name */
+    public const BLOCK_STORY_CAROUSEL = 'font-icon-block-story-carousel';
+
+    /** Glyph css class name */
+    public const BLOCK_USER_4 = 'font-icon-block-user-4';
+
+    /** Glyph css class name */
+    public const BLOCK_LINK = 'font-icon-block-link';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_4 = 'font-icon-block-layout-4';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_5 = 'font-icon-block-layout-5';
+
+    /** Glyph css class name */
+    public const BLOCK_TABLE_DATA = 'font-icon-block-table-data';
+
+    /** Glyph css class name */
+    public const BLOCK_SEARCH = 'font-icon-block-search';
+
+    /** Glyph css class name */
+    public const BLOCK_USER_5 = 'font-icon-block-user-5';
+
+    /** Glyph css class name */
+    public const BLOCK_USERS = 'font-icon-block-users';
+
+    /** Glyph css class name */
+    public const BLOCK_MICROPHONE = 'font-icon-block-microphone';
+
+    /** Glyph css class name */
+    public const BLOCK_BLOG_POST = 'font-icon-block-blog-post';
+
+    /** Glyph css class name */
+    public const BLOCK_AWARD = 'font-icon-block-award';
+
+    /** Glyph css class name */
+    public const BLOCK_B = 'font-icon-block-b';
+
+    /** Glyph css class name */
+    public const BLOCK_BOOKMARK = 'font-icon-block-bookmark';
+
+    /** Glyph css class name */
+    public const BLOCK_NUMBERS = 'font-icon-block-numbers';
+
+    /** Glyph css class name */
+    public const BLOCK_VIDEO = 'font-icon-block-video';
+
+    /** Glyph css class name */
+    public const BLOCK_PHONE = 'font-icon-block-phone';
+
+    /** Glyph css class name */
+    public const BLOCK_QUOTE = 'font-icon-block-quote';
+
+    /** Glyph css class name */
+    public const BLOCK_REPORTS = 'font-icon-block-reports';
+
+    /** Glyph css class name */
+    public const BLOCK_COFFEE = 'font-icon-block-coffee';
+
+    /** Glyph css class name */
+    public const BLOCK_CONVERSATION = 'font-icon-block-conversation';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_6 = 'font-icon-block-layout-6';
+
+    /** Glyph css class name */
+    public const BLOCK_CUSTOM = 'font-icon-block-custom';
+
+    /** Glyph css class name */
+    public const BLOCK_BELL = 'font-icon-block-bell';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_7 = 'font-icon-block-layout-7';
+
+    /** Glyph css class name */
+    public const BLOCK_EMAIL = 'font-icon-block-email';
+
+    /** Glyph css class name */
+    public const BLOCK_SETTINGS = 'font-icon-block-settings';
+
+    /** Glyph css class name */
+    public const BLOCK_SETTINGS_2 = 'font-icon-block-settings-2';
+
+    /** Glyph css class name */
+    public const BLOCK_GLOBE = 'font-icon-block-globe';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_8 = 'font-icon-block-layout-8';
+
+    /** Glyph css class name */
+    public const BLOCK_LAYOUT_9 = 'font-icon-block-layout-9';
+
+    /** Glyph css class name */
+    public const BLOCK_GLOBE_2 = 'font-icon-block-globe-2';
+
+    /** Glyph css class name */
+    public const BLOCK_STORY = 'font-icon-block-story';
+
+    /** Glyph css class name */
+    public const EDIT_WRITE = 'font-icon-edit-write';
+
+    /** Glyph css class name */
+    public const USER_LOCK = 'font-icon-user-lock';
+
+    /** Glyph css class name */
+    public const ADDRESS_CARD = 'font-icon-address-card';
+
+    /** Glyph css class name */
+    public const ADDRESS_CARD_WARNING = 'font-icon-address-card-warning';
 }

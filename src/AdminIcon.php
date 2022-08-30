@@ -67,9 +67,6 @@ class AdminIcon
     public const SITEMAP = 'sitemap';
 
     /** Glyph name */
-    public const GLOBE_1 = 'globe-1';
-
-    /** Glyph name */
     public const CHAT = 'chat';
 
     /** Glyph name */
@@ -113,9 +110,6 @@ class AdminIcon
 
     /** Glyph name */
     public const COLUMNS = 'columns';
-
-    /** Glyph name */
-    public const EDIT_WRITE = 'edit-write';
 
     /** Glyph name */
     public const MONITOR = 'monitor';
@@ -244,9 +238,6 @@ class AdminIcon
     public const DATABASE = 'database';
 
     /** Glyph name */
-    public const ATTENTION = 'attention';
-
-    /** Glyph name */
     public const BLOCK = 'block';
 
     /** Glyph name */
@@ -320,9 +311,6 @@ class AdminIcon
 
     /** Glyph name */
     public const HOME = 'home';
-
-    /** Glyph name */
-    public const BLOCK_BACK = 'block-back';
 
     /** Glyph name */
     public const BLOCK_BANNER = 'block-banner';
@@ -536,4 +524,208 @@ class AdminIcon
 
     /** Glyph name */
     public const PLUS_THIN = 'plus-thin';
+
+    /** Glyph name */
+    public const DASHBOARD = 'dashboard';
+
+    /** Glyph name */
+    public const BLOCK_EMBED = 'block-embed';
+
+    /** Glyph name */
+    public const MINUS_CIRCLE = 'minus-circle';
+
+    /** Glyph name */
+    public const CHECK_CIRCLE = 'check-circle';
+
+    /** Glyph name */
+    public const MINUS = 'minus';
+
+    /** Glyph name */
+    public const PLUS_1 = 'plus-1';
+
+    /** Glyph name */
+    public const RIGHT_THIN = 'right-thin';
+
+    /** Glyph name */
+    public const LEFT_THIN = 'left-thin';
+
+    /** Glyph name */
+    public const DOWN_THIN = 'down-thin';
+
+    /** Glyph name */
+    public const UP_THIN = 'up-thin';
+
+    /** Glyph name */
+    public const ATTENTION = 'attention';
+
+    /** Glyph name */
+    public const INTEGRATION = 'integration';
+
+    /** Glyph name */
+    public const LAMP = 'lamp';
+
+    /** Glyph name */
+    public const FLAG = 'flag';
+
+    /** Glyph name */
+    public const GLOBE_1 = 'globe-1';
+
+    /** Glyph name */
+    public const SHIELD = 'shield';
+
+    /** Glyph name */
+    public const CLONE = 'clone';
+
+    /** Glyph name */
+    public const BLOCK_BACK = 'block-back';
+
+    /** Glyph name */
+    public const BLOCK_A = 'block-a';
+
+    /** Glyph name */
+    public const BLOCK_A_B = 'block-a-b';
+
+    /** Glyph name */
+    public const BLOCK_ANALYTICS = 'block-analytics';
+
+    /** Glyph name */
+    public const BLOCK_USER_3 = 'block-user-3';
+
+    /** Glyph name */
+    public const BLOCK_ATTACHMENT = 'block-attachment';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_2 = 'block-layout-2';
+
+    /** Glyph name */
+    public const BLOCK_CLOCK = 'block-clock';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_3 = 'block-layout-3';
+
+    /** Glyph name */
+    public const BLOCK_INFO = 'block-info';
+
+    /** Glyph name */
+    public const BLOCK_GROUP = 'block-group';
+
+    /** Glyph name */
+    public const BLOCK_INSTAGRAM = 'block-instagram';
+
+    /** Glyph name */
+    public const BLOCK_USER = 'block-user';
+
+    /** Glyph name */
+    public const BLOCK_USER_2 = 'block-user-2';
+
+    /** Glyph name */
+    public const BLOCK_STORY_CAROUSEL = 'block-story-carousel';
+
+    /** Glyph name */
+    public const BLOCK_USER_4 = 'block-user-4';
+
+    /** Glyph name */
+    public const BLOCK_LINK = 'block-link';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_4 = 'block-layout-4';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_5 = 'block-layout-5';
+
+    /** Glyph name */
+    public const BLOCK_TABLE_DATA = 'block-table-data';
+
+    /** Glyph name */
+    public const BLOCK_SEARCH = 'block-search';
+
+    /** Glyph name */
+    public const BLOCK_USER_5 = 'block-user-5';
+
+    /** Glyph name */
+    public const BLOCK_USERS = 'block-users';
+
+    /** Glyph name */
+    public const BLOCK_MICROPHONE = 'block-microphone';
+
+    /** Glyph name */
+    public const BLOCK_BLOG_POST = 'block-blog-post';
+
+    /** Glyph name */
+    public const BLOCK_AWARD = 'block-award';
+
+    /** Glyph name */
+    public const BLOCK_B = 'block-b';
+
+    /** Glyph name */
+    public const BLOCK_BOOKMARK = 'block-bookmark';
+
+    /** Glyph name */
+    public const BLOCK_NUMBERS = 'block-numbers';
+
+    /** Glyph name */
+    public const BLOCK_VIDEO = 'block-video';
+
+    /** Glyph name */
+    public const BLOCK_PHONE = 'block-phone';
+
+    /** Glyph name */
+    public const BLOCK_QUOTE = 'block-quote';
+
+    /** Glyph name */
+    public const BLOCK_REPORTS = 'block-reports';
+
+    /** Glyph name */
+    public const BLOCK_COFFEE = 'block-coffee';
+
+    /** Glyph name */
+    public const BLOCK_CONVERSATION = 'block-conversation';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_6 = 'block-layout-6';
+
+    /** Glyph name */
+    public const BLOCK_CUSTOM = 'block-custom';
+
+    /** Glyph name */
+    public const BLOCK_BELL = 'block-bell';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_7 = 'block-layout-7';
+
+    /** Glyph name */
+    public const BLOCK_EMAIL = 'block-email';
+
+    /** Glyph name */
+    public const BLOCK_SETTINGS = 'block-settings';
+
+    /** Glyph name */
+    public const BLOCK_SETTINGS_2 = 'block-settings-2';
+
+    /** Glyph name */
+    public const BLOCK_GLOBE = 'block-globe';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_8 = 'block-layout-8';
+
+    /** Glyph name */
+    public const BLOCK_LAYOUT_9 = 'block-layout-9';
+
+    /** Glyph name */
+    public const BLOCK_GLOBE_2 = 'block-globe-2';
+
+    /** Glyph name */
+    public const BLOCK_STORY = 'block-story';
+
+    /** Glyph name */
+    public const EDIT_WRITE = 'edit-write';
+
+    /** Glyph name */
+    public const USER_LOCK = 'user-lock';
+
+    /** Glyph name */
+    public const ADDRESS_CARD = 'address-card';
+
+    /** Glyph name */
+    public const ADDRESS_CARD_WARNING = 'address-card-warning';
 }

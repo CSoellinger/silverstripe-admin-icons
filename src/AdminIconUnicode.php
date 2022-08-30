@@ -67,9 +67,6 @@ class AdminIconUnicode
     public const SITEMAP = 'C';
 
     /** Glyph unicode character */
-    public const GLOBE_1 = 'R';
-
-    /** Glyph unicode character */
     public const CHAT = 't';
 
     /** Glyph unicode character */
@@ -113,9 +110,6 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const COLUMNS = 'r';
-
-    /** Glyph unicode character */
-    public const EDIT_WRITE = 'u';
 
     /** Glyph unicode character */
     public const MONITOR = 'x';
@@ -244,9 +238,6 @@ class AdminIconUnicode
     public const DATABASE = '?';
 
     /** Glyph unicode character */
-    public const ATTENTION = '[';
-
-    /** Glyph unicode character */
     public const BLOCK = '<';
 
     /** Glyph unicode character */
@@ -320,9 +311,6 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const HOME = '';
-
-    /** Glyph unicode character */
-    public const BLOCK_BACK = '';
 
     /** Glyph unicode character */
     public const BLOCK_BANNER = '';
@@ -536,4 +524,208 @@ class AdminIconUnicode
 
     /** Glyph unicode character */
     public const PLUS_THIN = '';
+
+    /** Glyph unicode character */
+    public const DASHBOARD = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_EMBED = '';
+
+    /** Glyph unicode character */
+    public const MINUS_CIRCLE = '';
+
+    /** Glyph unicode character */
+    public const CHECK_CIRCLE = '';
+
+    /** Glyph unicode character */
+    public const MINUS = '';
+
+    /** Glyph unicode character */
+    public const PLUS_1 = '';
+
+    /** Glyph unicode character */
+    public const RIGHT_THIN = '';
+
+    /** Glyph unicode character */
+    public const LEFT_THIN = '';
+
+    /** Glyph unicode character */
+    public const DOWN_THIN = '';
+
+    /** Glyph unicode character */
+    public const UP_THIN = '';
+
+    /** Glyph unicode character */
+    public const ATTENTION = '[';
+
+    /** Glyph unicode character */
+    public const INTEGRATION = '';
+
+    /** Glyph unicode character */
+    public const LAMP = '';
+
+    /** Glyph unicode character */
+    public const FLAG = '';
+
+    /** Glyph unicode character */
+    public const GLOBE_1 = 'R';
+
+    /** Glyph unicode character */
+    public const SHIELD = 'u';
+
+    /** Glyph unicode character */
+    public const CLONE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_BACK = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_A = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_A_B = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_ANALYTICS = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USER_3 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_ATTACHMENT = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_2 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_CLOCK = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_3 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_INFO = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_GROUP = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_INSTAGRAM = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USER = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USER_2 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_STORY_CAROUSEL = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USER_4 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LINK = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_4 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_5 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_TABLE_DATA = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_SEARCH = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USER_5 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_USERS = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_MICROPHONE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_BLOG_POST = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_AWARD = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_B = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_BOOKMARK = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_NUMBERS = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_VIDEO = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_PHONE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_QUOTE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_REPORTS = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_COFFEE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_CONVERSATION = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_6 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_CUSTOM = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_BELL = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_7 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_EMAIL = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_SETTINGS = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_SETTINGS_2 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_GLOBE = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_8 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_LAYOUT_9 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_GLOBE_2 = '';
+
+    /** Glyph unicode character */
+    public const BLOCK_STORY = '';
+
+    /** Glyph unicode character */
+    public const EDIT_WRITE = '';
+
+    /** Glyph unicode character */
+    public const USER_LOCK = '';
+
+    /** Glyph unicode character */
+    public const ADDRESS_CARD = '';
+
+    /** Glyph unicode character */
+    public const ADDRESS_CARD_WARNING = '';
 }
