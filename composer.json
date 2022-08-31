@@ -43,7 +43,11 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Csoellinger\\Silverstripe\\AdminIcons\\": "src/",
+            "Csoellinger\\Silverstripe\\AdminIcons\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
             "Csoellinger\\Silverstripe\\AdminIcons\\Tests\\": "tests/"
         }
     },
