@@ -5,6 +5,12 @@
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
+        "silverstripe-module",
+        "silverstripe-vendormodule",
+        "module",
+        "vendormodule",
+        "plugin",
+        "addon",
         "vendor",
         "module",
         "admin",
@@ -13,16 +19,20 @@
         "helper",
         "class"
     ],
+    "readme": "README.md",
     "authors": [
         {
             "name": "CSoellinger",
-            "email": "christopher.soellinger@gmail.com"
+            "email": "christopher.soellinger@gmail.com",
+            "role": "developer"
         }
     ],
+    "homepage": "https://github.com/CSoellinger/silverstripe-admin-icons",
     "support": {
         "issues": "https://github.com/CSoellinger/silverstripe-admin-icons/issues"
     },
     "require": {
+        "php": "7.0 || 7.1 || 7.2 || 7.3 || 7.4 || 8.0",
         "silverstripe/admin": "^1.11"
     },
     "require-dev": {
@@ -38,6 +48,7 @@
     "config": {
         "allow-plugins": {
             "composer/installers": true,
+            "silverstripe/recipe-plugin": true,
             "silverstripe/vendor-plugin": true,
             "ergebnis/composer-normalize": true
         }
