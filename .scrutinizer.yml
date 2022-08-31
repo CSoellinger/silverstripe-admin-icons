@@ -1,29 +1,15 @@
 inherit: true
 
 build:
-  environment:
-    variables:
-      SS_ENVIRONMENT_TYPE: dev
-      SS_DATABASE_CLASS: SQLite3Database
-      SS_DATABASE_NAME: xxx
-      SS_DATABASE_USERNAME: xxx
-      SS_DATABASE_PASSWORD: xxx
-      SS_DEFAULT_ADMIN_USERNAME: admin
-      SS_DEFAULT_ADMIN_PASSWORD: admin
   nodes:
     analysis:
-      environment:
-        php:
-          version: "7.4"
-      dependencies:
-        override:
-          - composer validate
-          - composer install --no-interaction --verbose --profile --prefer-dist
       tests:
-        override: [php-scrutinizer-run]
+        override:
+          - php-scrutinizer-run --enable-security-analysis
 
 checks:
   php:
+    code_rating: true
     duplication: true
 
 filter:
