@@ -28,7 +28,7 @@
         "post-update-cmd": [
             "@generate-constant-class"
         ],
-        "generate-constant-class": "php GenerateConstantClass.php",
+        "generate-constant-class": "php GenerateConstantClass.php exec",
         "serve": "php -S localhost:5040 -t ."
     },
     "minimum-stability": "dev",
