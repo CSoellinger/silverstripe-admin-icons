@@ -84,4 +84,6 @@ class GenerateConstantClass
     }
 }
 
-GenerateConstantClass::execute();
+if (isset($argv[1]) && $argv[1] === 'exec') {
+    GenerateConstantClass::execute();
+}
